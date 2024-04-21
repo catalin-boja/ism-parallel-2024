@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_FalseCacheSharing", "08_FalseCacheSharing.vcxproj", "{365E4666-2DDC-44D0-9353-37C2DE2A78A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365E4666-2DDC-44D0-9353-37C2DE2A78A0}.Debug|x64.ActiveCfg = Debug|x64
+		{365E4666-2DDC-44D0-9353-37C2DE2A78A0}.Debug|x64.Build.0 = Debug|x64
+		{365E4666-2DDC-44D0-9353-37C2DE2A78A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{365E4666-2DDC-44D0-9353-37C2DE2A78A0}.Debug|x86.Build.0 = Debug|Win32
+		{365E4666-2DDC-44D0-9353-37C2DE2A78A0}.Release|x64.ActiveCfg = Release|x64
+		{365E4666-2DDC-44D0-9353-37C2DE2A78A0}.Release|x64.Build.0 = Release|x64
+		{365E4666-2DDC-44D0-9353-37C2DE2A78A0}.Release|x86.ActiveCfg = Release|Win32
+		{365E4666-2DDC-44D0-9353-37C2DE2A78A0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49CD366B-7301-41E0-A58C-019602C29E16}
+	EndGlobalSection
+EndGlobal
